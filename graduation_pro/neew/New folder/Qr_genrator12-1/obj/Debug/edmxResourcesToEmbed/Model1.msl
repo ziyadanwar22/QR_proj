@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QRSHAModelStoreContainer" CdmEntityContainer="QR">
+    <EntitySetMapping Name="DOC_Tabel">
+      <EntityTypeMapping TypeName="QR.SHAModel.DOC_Tabel">
+        <MappingFragment StoreEntitySet="DOC_Tabel">
+          <ScalarProperty Name="DOC_ID" ColumnName="DOC_ID" />
+          <ScalarProperty Name="DOC_MAIL" ColumnName="DOC_MAIL" />
+          <ScalarProperty Name="DOC_PASSWORD" ColumnName="DOC_PASSWORD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

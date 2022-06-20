@@ -1,0 +1,145 @@
+C:\Users\HP\source\repos\Qr_genrator\bin\Debug\Qr_genrator.exe.config
+C:\Users\HP\source\repos\Qr_genrator\bin\Debug\Qr_genrator.exe
+C:\Users\HP\source\repos\Qr_genrator\bin\Debug\Qr_genrator.pdb
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Form1.resources
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Properties.Resources.resources
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.exe
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.pdb
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Home.resources
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Qr.resources
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Manual.resources
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\bin\Debug\Qr_genrator.exe.config
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\bin\Debug\Qr_genrator.exe
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\bin\Debug\Qr_genrator.pdb
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.csprojAssemblyReference.cache
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.Form1.resources
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.Home.resources
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.Manual.resources
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.Properties.Resources.resources
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.Qr.resources
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.exe
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.pdb
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mohammed\Desktop\project\Qr_pro-main\Qr_genrator\obj\Debug\Qr_genrator.csproj.CopyComplete
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\bin\Debug\Qr_genrator.exe.config
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\bin\Debug\Qr_genrator.exe
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\bin\Debug\Qr_genrator.pdb
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.csprojAssemblyReference.cache
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Form1.resources
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Home.resources
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Manual.resources
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Properties.Resources.resources
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Qr.resources
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.csproj.CopyComplete
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.exe
+C:\Users\Mohammed\Desktop\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.pdb
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\bin\Debug\Qr_genrator.exe.config
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\bin\Debug\Qr_genrator.exe
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\bin\Debug\Qr_genrator.pdb
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\bin\Debug\Zen.Barcode.Core.dll
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.csprojAssemblyReference.cache
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Form1.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Home.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Manual.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Properties.Resources.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.Qr.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.csproj.CopyComplete
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.exe
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\obj\Debug\Qr_genrator.pdb
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\bin\Debug\EntityFramework.dll
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\bin\Debug\EntityFramework.SqlServer.dll
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\bin\Debug\EntityFramework.xml
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator\bin\Debug\EntityFramework.SqlServer.xml
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.exe.config
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.exe
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.pdb
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.dll
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Zen.Barcode.Core.dll
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.xml
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Form1.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Home.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Manual.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Properties.Resources.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Qr.resources
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.CopyComplete
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.exe
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.pdb
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.AssemblyReference.cache
+E:\Acadmic\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Help.resources
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.exe.config
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.exe
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.pdb
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.dll
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Zen.Barcode.Core.dll
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.xml
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.AssemblyReference.cache
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Form1.resources
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Help.resources
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Home.resources
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Manual.resources
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Properties.Resources.resources
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Qr.resources
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.CopyComplete
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.exe
+E:\Acadmic\sem1\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.pdb
+E:\Acadmic\sem1\graduation_pro\neew\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.AssemblyReference.cache
+E:\Acadmic\sem1\graduation_pro\neew\Qr_genrator12-1\obj\Debug\Qr_genrator.exe
+E:\Acadmic\sem1\graduation_pro\neew\Qr_genrator12-1\obj\Debug\Qr_genrator.pdb
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.exe.config
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.exe
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.pdb
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.dll
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.xml
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Form1.resources
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Help.resources
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Home.resources
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Manual.resources
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Properties.Resources.resources
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Qr.resources
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.CopyComplete
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.exe
+C:\Users\2022\Desktop\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.pdb
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.exe.config
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.exe
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Qr_genrator.pdb
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.dll
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\Zen.Barcode.Core.dll
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.xml
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.AssemblyReference.cache
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Form1.resources
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Help.resources
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Home.resources
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Manual.resources
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Properties.Resources.resources
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.Qr.resources
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.csproj.CopyComplete
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.exe
+E:\New folder\graduation_pro\neew\New folder\Qr_genrator12-1\obj\Debug\Qr_genrator.pdb
